@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Applight/static/css/main.be77935d.css",
+    "main.js": "/Applight/static/js/main.254a3936.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Applight/static/js/787.28cb0dcd.chunk.js",
+    "static/media/video-bg.jpg": "/Applight/static/media/video-bg.9175b7a55537b6f378d4.jpg",
+    "static/media/iphone-screen-with-shadow.png": "/Applight/static/media/iphone-screen-with-shadow.d39b238f38611ffe5866.png",
+    "static/media/iphone-screen.png": "/Applight/static/media/iphone-screen.ae8348174ab927e7ec4b.png",
+    "static/media/user1.jpg": "/Applight/static/media/user1.627475c20707b4ee019d.jpg",
+    "static/media/user2.jpg": "/Applight/static/media/user2.36b3d8d3bb35e2a45f40.jpg",
+    "static/media/user3.jpg": "/Applight/static/media/user3.37e2e2ee2447e3b58756.jpg",
+    "static/media/playstore.png": "/Applight/static/media/playstore.4a3c2c1b0e951a10d3f0.png",
+    "static/media/appstore.png": "/Applight/static/media/appstore.8d5376b8e951ba42dbaf.png",
+    "static/media/slick.svg": "/Applight/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Applight/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Applight/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Applight/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/applight-wave.svg": "/Applight/static/media/applight-wave.f1e3be5211f5b5d1ae9bbaefb98d7a5f.svg",
+    "index.html": "/Applight/index.html",
+    "main.be77935d.css.map": "/Applight/static/css/main.be77935d.css.map",
+    "main.254a3936.js.map": "/Applight/static/js/main.254a3936.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Applight/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be77935d.css",
+    "static/js/main.254a3936.js"
+  ]
+}
